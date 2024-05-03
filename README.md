@@ -2,7 +2,7 @@
 <h2 style="font-size: 18px">PROJECT OVERVIEW</h2>
 The following is an email newsletter design concept, made for a fictional business productivity software company named XYZ Ventures. I designed it based on a randomized design prompt generated through ChatGPT. The prompt was structured as an email sent from XYZ Ventures, requesting an email newsletter be designed for their employees. The request specified the client's wants and needs, such as the written content and visual branding guidelines. I created the prototype in Adobe InDesign using inspiration from real B-to-C newsletters I've received and designs found being praised online in digital marketing blogs. For the more intricately-shaped elements, I made and imported them from Adobe Illustrator. I did not start the design process out from a time-saving template, since I wanted to get more out of the experience and demonstrate more of my own work for those visiting my portfolio.
 <h2 style="font-size: 18px">HIGHLIGHTS OF CLIENT'S REQUEST</h2>
-<br><br>
+<br>
 <ul>
 <li><b>Product Launch:</b> XYZ Ventures is thrilled to introduce our latest product, "InnovatePro X." This cutting-edge software is set to revolutionize the industry with its advanced features for businesses seeking enhanced productivity and efficiency.
 </li>
