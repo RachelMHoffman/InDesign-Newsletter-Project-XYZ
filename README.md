@@ -26,4 +26,4 @@ The following is an email newsletter design concept, made for a fictional busin
 </li>
 </ul>
 <h2 style="font-size: 18px">DESIGN DRAFT</h2>
-<div align="center"><a href="" type="application/pdf">The final result is saved as a PDF file found in this repository's files.</a></div>
+<div align="center">Click the file named "XYZ-Ventures-Full-View.pdf" on this screen, or <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/XYZ-Ventures-Full-View.pdf" type="application/pdf">click here</a> if you can't see it.</div>
