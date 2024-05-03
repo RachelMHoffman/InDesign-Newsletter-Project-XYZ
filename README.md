@@ -26,4 +26,4 @@ The following is an email newsletter design concept, made for a fictional busin
 </li>
 </ul>
 <h2 style="font-size: 18px">DESIGN DRAFT</h2>
-<div align="center"><img src="" width="50%"></div>
+<div align="center"><a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/XYZ-Ventures-Full-View.pdf"></a></div>
